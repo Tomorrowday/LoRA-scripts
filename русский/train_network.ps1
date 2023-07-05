@@ -1,6 +1,7 @@
 ﻿# LoRA retard-friendly train_network script v1.13 by anon
-# Последнее обновление: 24.01.23
-# Актуально по состоянию на версию sd-scripts 0.4.0
+# Fork by Tomorrowday
+# Последнее обновление: 05.07.2023
+# Актуально по состоянию на версию sd-scripts 0.6.4
 # https://github.com/cloneofsimo/lora
 # https://github.com/kohya-ss/sd-scripts
 # https://rentry.org/2chAI_LoRA_Dreambooth_guide
